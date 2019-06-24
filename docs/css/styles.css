@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url("../images/bg.jpg") center;
+  background-size: cover;
+}
+
+.container {
+  margin: 0 auto;
+  width: 500px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.container h2 {
+  font-size: 250%;
+  color: #fff;
+  text-align: center;
+}
